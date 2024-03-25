@@ -149,6 +149,10 @@ h3 {
     font-weight: 400;
 }
 
+.heading-primary span {
+    color: black;
+}
+
 @media(max-width: 900px) {
     .heading-primary {
         font-size: 6.5rem;
